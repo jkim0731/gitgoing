@@ -15,6 +15,9 @@ typing test
 # Second change
 * new one
 
+## Changed in branch "change1"
+* cool
+
 ## Prerequisistes: Installing Git and Python
 
 1. Make a github account
