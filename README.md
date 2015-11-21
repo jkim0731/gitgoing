@@ -8,6 +8,12 @@ Get going with contributing to open-source software
 * Free software: BSD license
 * Documentation: https://gitgoing.readthedocs.org.
 
+## changed 
+typing test
+* test bulleting
+
+
+
 ## Prerequisistes: Installing Git and Python
 
 1. Make a github account
